@@ -1,27 +1,45 @@
-<!-- Banner (random unsplash developer-themed image) -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="Banner" width="100%" />
+<h2> Hi, I'm Ganapati Narasimha Gouda! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://avatars.githubusercontent.com/u/169821465?v=4" width="230" style="border-radius:50%;" />
+
+<p>
+  <em>
+    Aspiring Full-Stack Web Developer and MCA student at <a href="https://ait.edu.in/">AIT</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    <br>
+    Also known as <b>Game-changer Ganapati</b> 🚀
+  </em>
 </p>
 
-<!-- Profile Photo -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/169821465?v=4" alt="GANAPATI" width="150" style="border-radius:50%;" />
-</p>
-
-<h1 align="center">Hi, I'm Ganapati Narasimha Gouda 👋</h1>
-<h3 align="center">Also known as Game-changer Ganapati</h3>
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat-square&logo=react&logoColor=61DAFB)](https://ganapatiportfolio.netlify.app/)
+[![Gmail Badge](https://img.shields.io/badge/-ganapathigouda379@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ganapathigouda379@gmail.com)](mailto:ganapathigouda379@gmail.com)
+[![GitHub Ganapati03](https://img.shields.io/github/followers/Ganapati03?label=follow&style=social)](https://github.com/Ganapati03)
 
 ---
 
-🎓 **Aspiring Full-Stack Web Developer**  
-🎓 Pursuing MCA at AIT  
-⚡ Exploring the latest in tech and always up for a challenge!
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const ganapati = {
+  pronouns: "he" | "him",
+  code: [
+    "HTML5", "CSS3", "JavaScript", "React.js", "Bootstrap", 
+    "Node.js", "Express.js", "PHP",
+    "MongoDB", "MySQL",
+    "Java", "C", "Python"
+  ],
+  tools: [
+    "AWS", "Postman", "Git", "GitHub", "Linux"
+  ],
+  fun: "Turning ideas into code, and code into impact. Let's change the game together!",
+  challenge: "Always up for a challenge and learning something new!"
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -44,16 +62,6 @@
 
 ---
 
-## 🚩 Major Projects
-
-- 🚤 **Sagar Mitra** – MERN-based boat booking and management system
-- 🌊 **Kalavali Mitra** – MERN-based coastal awareness web app
-- 📊 **Smartphone Market Analysis** – Data analysis using Python & Streamlit
-- 🎬 **Netflix Clone** – Responsive UI using HTML & CSS
-- ⚓ **Boat Renting Website** – MongoDB + Node.js + Admin panel system
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -66,26 +74,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://ganapatiportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  <a href="mailto:ganapathigouda379@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Add your LinkedIn below! -->
-  <!-- <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
-  <a href="https://github.com/Ganapati03" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> – if you want to say <b>hi</b>, I’ll be happy to meet you more!</em>
 
 ---
-
-<p align="center">
-  <em>"Turning ideas into code, and code into impact. Let's change the game together!"</em>
-</p>
