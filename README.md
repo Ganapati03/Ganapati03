@@ -61,13 +61,23 @@ const ganapati = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ganapati03&show_icons=true&theme=radical" alt="Ganapati's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganapati03&theme=radical" alt="Ganapati's GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganapati03&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<pre>
+┌─────────────────────────────┐
+│  Loading GitHub Stats...   │
+├─────────────────────────────┤
+│ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ │
+└─────────────────────────────┘
+</pre>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ganapati03&show_icons=true&theme=radical" alt="Ganapati's GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganapati03&theme=radical" alt="Ganapati's GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganapati03&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
 
 ---
 
