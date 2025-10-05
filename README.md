@@ -1,5 +1,4 @@
-<h2> Hi, I'm Ganapati! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50" style="border-radius:50%"></h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/169821465?v=4" width="230" style="border-radius: 50%; box-shadow: 0 0 8px #222;" />
+<h2> Hi, I'm Ganapati! </h2>
 
 <p>
   <em>
