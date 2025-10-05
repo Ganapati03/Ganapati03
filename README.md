@@ -61,23 +61,13 @@ const ganapati = {
 
 ## 📊 GitHub Stats
 
-<pre>
-┌─────────────────────────────┐
-│  Loading GitHub Stats...   │
-├─────────────────────────────┤
-│ ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ │
-└─────────────────────────────┘
-</pre>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ganapati03&show_icons=true&theme=radical" alt="Ganapati's GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganapati03&theme=radical" alt="Ganapati's GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganapati03&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Stats-black?style=for-the-badge&logo=github&logoColor=white">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ganapati03&show_icons=true&theme=merko" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ganapati03&theme=merko&hide_border=false" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganapati03&layout=compact&theme=merko" alt="Top Langs" />
+</p>
 
 ---
 
