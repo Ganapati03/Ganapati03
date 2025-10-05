@@ -1,12 +1,10 @@
 <h2> Hi, I'm Ganapati Narasimha Gouda! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/169821465?v=4" width="230" style="border-radius:50%;" />
+<img align='right' src="https://avatars.githubusercontent.com/u/169821465?v=4" width="230" style="border-radius: 50%; box-shadow: 0 0 8px #222;" />
 
 <p>
   <em>
     Aspiring Full-Stack Web Developer and MCA student at <a href="https://ait.edu.in/">AIT</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-    <br>
-    Also known as <b>Game-changer Ganapati</b> 🚀
   </em>
 </p>
 
